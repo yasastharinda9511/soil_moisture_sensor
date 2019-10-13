@@ -1,0 +1,35 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~93|Field=Description~String~Description~93|Field=Designator~String~Designator~93|Field=Footprint~String~Footprint~93|Field=LibRef~String~LibRef~93|Field=Manufacturer Part Number~String~Manufacturer Part Number~93|Field=Quantity~Integer~Quantity~93|Field=Supplier 1~String~Supplier 1~85|Field=Supplier Part Number 1~String~Supplier Part Number 1~115|Field=Value~String~Value~90|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~MoistureSensing.PrjPcb|ReportField=ProjectFullPath~C:\Users\Yasas Tharinda\OneDrive\Desktop\Sample\MoistureSensing.PrjPcb|ReportField=Title~Bill of Materials For Project [MoistureSensing.PrjPcb] (PCB Document : senzMate_ecandMoisture_pcb_design_cycle_2.PcbDoc)|ReportField=ReportTime~11:15:17 AM|ReportField=ReportDate~8/5/2019|ReportField=ReportDateTime~8/5/2019 11:15:17 AM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=TotalQuantity~34|ReportField=TotalActualPrice~0|ReportField=TotalTargetPrice~0|ReportField=VersionControl_RevNumber~|ReportField=VersionControl_ProjFolderRevNumber~|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~8/5/2019|ReportField=CurrentTime~11:14:47 AM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Yasas Tharinda\OneDrive\Desktop\Sample\senzMate_ecandMoisture_design_cycle2.SchDoc|ReportField=DocumentName~senzMate_ecandMoisture_design_cycle2.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~8/5/2019|ReportField=Organization~|ReportField=ProjectName~MoistureSensing.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~MoistureSensing.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Yasas Tharinda\OneDrive\Desktop\Sample\MoistureSensing.PrjPcb|ReportField=PCBDataSourceFileName~senzMate_ecandMoisture_pcb_design_cycle_2.PcbDoc|ReportField=PCBDataSourceFullPath~C:\Users\Yasas Tharinda\OneDrive\Desktop\Sample\senzMate_ecandMoisture_pcb_design_cycle_2.PcbDoc|ReportField=PCBConfigurationName~Default Configuration|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|100uf||c1|tan_cap|tant_cap|T520B107M006ATE040|1|Digi-Key|{URL}{URL.TEXT}399-4008-1-ND{URL.TIP}Supplier|100uF
+2|10uf||c2|tan_cap|tant_cap|T491B106K006AT|1|Digi-Key|{URL}{URL.TEXT}399-3704-1-ND{URL.TIP}Supplier|10uF
+3|SMT Ceremic capacitors|Capacitor|C3|CAPACITOR_0603|Cap|CGA3E2X8R1E104K080AE|1|Digi-Key|{URL}{URL.TEXT}445-173658-1-ND{URL.TIP}Supplier|0.1uF
+4|SMT Ceremic capacitors|Capacitor|C4|CAPACITOR_0603|Cap|CGA3E2C0G1H391J080AA|1|Digi-Key|{URL}{URL.TEXT}445-5647-1-ND{URL.TIP}Supplier|390pF
+5|SMT Ceremic capacitors|Capacitor|C5|CAPACITOR_0603|Cap|C1608X5R1C106M080AB|1|Digi-Key|{URL}{URL.TEXT}445-9065-1-ND{URL.TIP}Supplier|10uF
+6|Diode|Diode|D1|Diode|Diode|RS1AB-13-F|1|Digi-Key|{URL}{URL.TEXT}RS1AB-FDICT-ND{URL.TIP}Supplier|
+7|Hole||F1|HOLE|Hole||1||{URL}{URL.TEXT}{URL.TIP}Supplier|
+8|Hole||F2|HOLE|Hole||1||{URL}{URL.TEXT}{URL.TIP}Supplier|
+9|LMV721||G1|lm721|lm721|LMV7219M7/NOPB|1|Digi-Key|{URL}{URL.TEXT}LMV7219M7%2FNOPBCT-ND{URL.TIP}Supplier|
+10|HEADER_1X||H1|CONNECTOR|HEADER1X5|ZHR-5|1|Digi-Key|{URL}{URL.TEXT}455-1201-ND{URL.TIP}Supplier|
+11|MMBT3904|Transistor npn|Q1|SOT95P245X110-3N|npn|BC848C-7-F|1|Digi-Key|{URL}{URL.TEXT}BC848C-7FDITR-ND{URL.TIP}Supplier|
+12|MMBT3904|Transistor npn|Q2|SOT95P245X110-3N|npn|BC848C-7-F|1|Digi-Key|{URL}{URL.TEXT}BC848C-7FDITR-ND{URL.TIP}Supplier|
+13|MMBT3904|Transistor npn|Q3|SOT95P245X110-3N|npn|BC848C-7-F|1|Digi-Key|{URL}{URL.TEXT}BC848C-7FDITR-ND{URL.TIP}Supplier|
+14|SI2307|P-Channel 30-V (D-S) MOSFET|Q4|SI2307|SI2307|SI2307BDS-T1-E3|1|Digi-Key|{URL}{URL.TEXT}SI2307BDS-T1-E3CT-ND{URL.TIP}Supplier|
+15|Res3|Resistor|R1|RES_0603|Res3|ERJ-3EKF1002V|1|Digi-Key|{URL}{URL.TEXT}P10.0KHCT-ND{URL.TIP}Supplier|10K
+16|Res3|Resistor|R2|RES_0603|Res3|ERJ-3EKF1002V|1|Digi-Key|{URL}{URL.TEXT}P10.0KHCT-ND{URL.TIP}Supplier|2.7K
+17|Res3|Resistor|R3|RES_0603|Res3|ERJ-3EKF1002V|1|Digi-Key|{URL}{URL.TEXT}P10.0KHCT-ND{URL.TIP}Supplier|10K
+18|Res3|Resistor|R4|RES_0603|Res3|ERJ-3EKF4701V|1|Digi-Key|{URL}{URL.TEXT}P4.70KHCT-ND{URL.TIP}Supplier|4.7K
+19|Res3|Resistor|R5|RES_0603|Res3|ERJ-3EKF4701V|1|Digi-Key|{URL}{URL.TEXT}P4.70KHCT-ND{URL.TIP}Supplier|4.7K
+20|Res3|Resistor|R6|RES_0603|Res3|ERJ-3EKF1002V|1|Digi-Key|{URL}{URL.TEXT}P10.0KHCT-ND{URL.TIP}Supplier|10K
+21|Res3|Resistor|R7|RES_0603|Res3|ERJ-3EKF1002V|1|Digi-Key|{URL}{URL.TEXT}P10.0KHCT-ND{URL.TIP}Supplier|10K
+22|Res3|Resistor|R8|RES_0603|Res3|RMCF0603FT1M00|1|Digi-Key|{URL}{URL.TEXT}RMCF0603FT1M00CT-ND{URL.TIP}Supplier|1M
+23|Res3|Resistor|R9|RES_0603|Res3|ERA-3AEB102V|1|Digi-Key|{URL}{URL.TEXT}P1.0KDBDKR-ND{URL.TIP}Supplier|1K
+24|Res3|Resistor|R10|RES_0603|Res3|RN73C1J45K3BTG|1|Mouser|{URL}{URL.TEXT}279-RN73C1J45K3BTG{URL.TIP}Supplier|45.3K
+25|Res3|Resistor|R11|RES_0603|Res3|RMCF0603FT1M00|1|Digi-Key|{URL}{URL.TEXT}RMCF0603FT1M00CT-ND{URL.TIP}Supplier|1M
+26|Test points||TP1|Test_point|TP||1||{URL}{URL.TEXT}{URL.TIP}Supplier|
+27|Test points||TP2|Test_point|TP||1||{URL}{URL.TEXT}{URL.TIP}Supplier|
+28|Test points||TP3|Test_point|TP||1||{URL}{URL.TEXT}{URL.TIP}Supplier|
+29|Test points||TP4|Test_point|TP||1||{URL}{URL.TEXT}{URL.TIP}Supplier|
+30|Test points||TP5|Test_point|TP||1||{URL}{URL.TEXT}{URL.TIP}Supplier|
+31|Test points||TP8|Test_point|TP||1||{URL}{URL.TEXT}{URL.TIP}Supplier|
+32|Test points||TP9|Test_point|TP||1||{URL}{URL.TEXT}{URL.TIP}Supplier|
+33|LM1117MP-3.3|LDO Regulator Pos 3.3V 0.8A 4-Pin_3+Tab_ SOT-223 T/R|U1|*SOT230P696X180-4N|LM1117MP-3.3|LM1117IMP-3.3/NOPB|1|Digi-Key|{URL}{URL.TEXT}LM1117IMP-3.3%2FNOPBCT-ND{URL.TIP}Supplier|
+34|TS555|Timer|U2|SOP127P600X175-8N|LM555|TS555CD-T|1|Digi-Key|{URL}{URL.TEXT}497-3043-1-ND{URL.TIP}Supplier|
