@@ -14,3 +14,11 @@ Then I identified what are the weaknesses of 1st design cycle of the soil moistu
   
   ## PCB Layout and the 3D View
 
+![Screenshot (505)](https://user-images.githubusercontent.com/37435024/99350608-d52b0700-28c4-11eb-80b7-345833377825.png)
+
+
+
+ 
+  ## PCB
+  
+  
