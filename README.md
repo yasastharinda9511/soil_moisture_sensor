@@ -2,7 +2,11 @@
 
 # Introduction
 
-    The aim of this project is to implement a sensor that is capable of measuring soil moisture and the conductivity in very efficient manner. The existing high-end soil moisture sensors thar are having capabilities mention above much more expensive and not affordable for the farmers in villages. Therefore, our main idea is to implement a low-cost sensor but having these features. It was something hard but after going through the previous design, it became normal. Then I identified what are the weaknesses of 1st design cycle of the soil moisture sensor and started to design own one referring previous design.
+The aim of this project is to implement a sensor that is capable of measuring soil moisture and the conductivity in very efficient manner. 
+The existing high-end soil moisture sensors thar are having capabilities mention above much more expensive and not affordable for 
+the farmers in villages. Therefore, our main idea is to implement a low-cost sensor but having these features.
+It was something hard but after going through the previous design, it became normal. 
+Then I identified what are the weaknesses of 1st design cycle of the soil moisture sensor and started to design own one referring previous design.
 
 # Design 
 
