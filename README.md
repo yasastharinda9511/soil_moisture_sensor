@@ -18,5 +18,10 @@ Then I identified what are the weaknesses of 1st design cycle of the soil moistu
 ![Screenshot (506)](https://user-images.githubusercontent.com/37435024/99354574-b2045580-28cc-11eb-806a-774f00305747.png)
 
   ## PCB
-  
+
+## Top View of the PCB
+![soil](https://user-images.githubusercontent.com/37435024/99354721-fd1e6880-28cc-11eb-9d8c-bda419477348.jpeg)
+
+## Bottom View of the PCB
+![soilw](https://user-images.githubusercontent.com/37435024/99354762-0c9db180-28cd-11eb-8663-1cfd7cdb501c.jpeg)
   
